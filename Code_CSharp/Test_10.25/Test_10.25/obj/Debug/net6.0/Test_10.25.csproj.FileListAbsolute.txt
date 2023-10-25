@@ -1,0 +1,14 @@
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\bin\Debug\net6.0\Test_10.25.exe
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\bin\Debug\net6.0\Test_10.25.deps.json
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\bin\Debug\net6.0\Test_10.25.runtimeconfig.json
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\bin\Debug\net6.0\Test_10.25.dll
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\bin\Debug\net6.0\Test_10.25.pdb
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\obj\Debug\net6.0\Test_10.25.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\obj\Debug\net6.0\Test_10.25.AssemblyInfoInputs.cache
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\obj\Debug\net6.0\Test_10.25.AssemblyInfo.cs
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\obj\Debug\net6.0\Test_10.25.csproj.CoreCompileInputs.cache
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\obj\Debug\net6.0\Test_10.25.dll
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\obj\Debug\net6.0\refint\Test_10.25.dll
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\obj\Debug\net6.0\Test_10.25.pdb
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\obj\Debug\net6.0\Test_10.25.genruntimeconfig.cache
+D:\UnityLearn\Code_CSharp\Test_10.25\Test_10.25\obj\Debug\net6.0\ref\Test_10.25.dll
