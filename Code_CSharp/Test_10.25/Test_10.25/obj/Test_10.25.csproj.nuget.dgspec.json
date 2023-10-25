@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UnityLearn\\Code_CSharp\\Test_10.25\\Test_10.25\\Test_10.25.csproj": {}
+    "D:\\GitHub\\Code_Unity\\Code_CSharp\\Test_10.25\\Test_10.25\\Test_10.25.csproj": {}
   },
   "projects": {
-    "D:\\UnityLearn\\Code_CSharp\\Test_10.25\\Test_10.25\\Test_10.25.csproj": {
+    "D:\\GitHub\\Code_Unity\\Code_CSharp\\Test_10.25\\Test_10.25\\Test_10.25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UnityLearn\\Code_CSharp\\Test_10.25\\Test_10.25\\Test_10.25.csproj",
+        "projectUniqueName": "D:\\GitHub\\Code_Unity\\Code_CSharp\\Test_10.25\\Test_10.25\\Test_10.25.csproj",
         "projectName": "Test_10.25",
-        "projectPath": "D:\\UnityLearn\\Code_CSharp\\Test_10.25\\Test_10.25\\Test_10.25.csproj",
+        "projectPath": "D:\\GitHub\\Code_Unity\\Code_CSharp\\Test_10.25\\Test_10.25\\Test_10.25.csproj",
         "packagesPath": "C:\\Users\\赵鹏翔\\.nuget\\packages\\",
-        "outputPath": "D:\\UnityLearn\\Code_CSharp\\Test_10.25\\Test_10.25\\obj\\",
+        "outputPath": "D:\\GitHub\\Code_Unity\\Code_CSharp\\Test_10.25\\Test_10.25\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
