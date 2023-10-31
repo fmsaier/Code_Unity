@@ -1,0 +1,14 @@
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\bin\Debug\net6.0\Test_10.30.exe
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\bin\Debug\net6.0\Test_10.30.deps.json
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\bin\Debug\net6.0\Test_10.30.runtimeconfig.json
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\bin\Debug\net6.0\Test_10.30.dll
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\bin\Debug\net6.0\Test_10.30.pdb
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\Test_10.30.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\Test_10.30.AssemblyInfoInputs.cache
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\Test_10.30.AssemblyInfo.cs
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\Test_10.30.csproj.CoreCompileInputs.cache
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\Test_10.30.dll
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\refint\Test_10.30.dll
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\Test_10.30.pdb
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\Test_10.30.genruntimeconfig.cache
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\ref\Test_10.30.dll
