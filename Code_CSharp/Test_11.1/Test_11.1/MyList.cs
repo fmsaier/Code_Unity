@@ -5,20 +5,27 @@ namespace Test_11._1
 {
     class MyList<T>
     {
-        public int Count;
-        public int Capacity = 4;
-        public T[] values;
-            
+        private int count;
+        private int capacity = 4;
+        private T[] values;
+
+        public int Count {  get { return count; } }
+        public int Capacity { get { return capacity; } }
+
+        public MyList()
+        {
+            values = new T[Capacity];
+        }
         public MyList(int Capacity)
         {
-            this.Capacity = Capacity;
+            this.capacity = Capacity;
             values = new T[Capacity];
         }
         public void Add(T item)
         {
              if(Count == Capacity)
             {
-                Capacity *= 2;
+                capacity *= 2;
                 T[] newValues = new T[Capacity];
                 for (int i = 0; i < Count; i++) 
                 {
@@ -27,13 +34,15 @@ namespace Test_11._1
                 values = newValues;
             }
             values[Count] = item;
-            Count++;
+            count++;
         }
         public void Insert(int index, T item)
         {
+            if (index < 0 || index >= Count)
+                throw new IndexOutOfRangeException("下标越界");
             if (Count == Capacity)
             {
-                Capacity *= 2;
+                capacity *= 2;
                 T[] newValues = new T[Capacity];
                 for (int i = 0; i < Count; i++)
                 {
@@ -46,52 +55,77 @@ namespace Test_11._1
                 values[i] = values[i - 1];
             }
             values[index] = item;
-            Count++;
+            count++;
         }
         public void RemoveAt(int index)
         {
-            for(int i = index; i < Count; i++)
+            if (index < 0 || index >= Count)
+                throw new IndexOutOfRangeException("下标越界");
+            for (int i = index; i < Count; i++)
             {
                 values[i] = values[i + 1];
             }
+            count--;
         }
-        //public void Remove(T item)
-        //{
-        //    int index = 0;
-        //    for(int i = 0;i < Count;i++)
-        //    {
-        //        if (item == values[i])
-        //        {
-        //            index = i;
-        //            break;
-        //        }
-        //    }
-        //    for (int i = index; i < Count; i++)
-        //    {
-        //        values[i] = values[i + 1];
-        //    }
-        //}
-        //public int IndexOf(T item)
-        //{
-        //    for (int i = 0; i < Count; i++)
-        //    {
-        //        if (item == values[i])
-        //        {
-        //            return i;
-        //        }
-        //    }
-        //    return -1;
-        //}
-        //public int LastIndexOf(T item)
-        //{
-        //    for (int i = Count - 1; i >= 0; i--)
-        //    {
-        //        if (item == values[i])
-        //        {
-        //            return i;
-        //        }
-        //    }
-        //    return -1;
-        //}
+        public T this[int index]
+        {
+            get 
+            { 
+                if(index < 0 || index >= Count)
+                    throw new IndexOutOfRangeException("下标越界");
+
+                return values[index]; 
+            }
+            set
+            {
+                values[index] = value;
+            }
+        }
+
+        public void Remove(T item)
+        {
+            int index = 0;
+            for (int i = 0; i < Count; i++)
+            {
+                if (item.Equals(values[i]))
+                {
+                    index = i;
+                    break;
+                }
+            }
+            for (int i = index; i < Count; i++)
+            {
+                values[i] = values[i + 1];
+            }
+            count--;
+        }
+        public int IndexOf(T item)
+        {
+            for (int i = 0; i < Count; i++)
+            {
+                if (item.Equals(values[i]))
+                {
+                    return i;
+                }
+            }
+            return -1;
+        }
+        public int LastIndexOf(T item)
+        {
+            for (int i = Count - 1; i >= 0; i--)
+            {
+                if (item.Equals(values[i]))
+                {
+                    return i;
+                }
+            }
+            return -1;
+        }
+        public void Sort()
+        {
+            Array.Sort(values, 0, Count);
+            //Array.Sort()
+            //Array.Sort()
+        }
     }
 }

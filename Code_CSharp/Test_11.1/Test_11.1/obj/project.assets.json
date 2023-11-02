@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Code_Cpp\\Test_11.1\\Test_11.1\\Test_11.1.csproj",
+      "projectUniqueName": "D:\\GitHub\\Code_Unity\\Code_CSharp\\Test_11.1\\Test_11.1\\Test_11.1.csproj",
       "projectName": "Test_11.1",
-      "projectPath": "D:\\GitHub\\Code_Cpp\\Test_11.1\\Test_11.1\\Test_11.1.csproj",
+      "projectPath": "D:\\GitHub\\Code_Unity\\Code_CSharp\\Test_11.1\\Test_11.1\\Test_11.1.csproj",
       "packagesPath": "C:\\Users\\赵鹏翔\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Code_Cpp\\Test_11.1\\Test_11.1\\obj\\",
+      "outputPath": "D:\\GitHub\\Code_Unity\\Code_CSharp\\Test_11.1\\Test_11.1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

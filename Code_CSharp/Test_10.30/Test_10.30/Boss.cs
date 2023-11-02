@@ -8,7 +8,7 @@ namespace Test_10._30
 {
     internal sealed class Boss:Enemy
     {
-        public sealed override void Move()
+        public sealed override void Move(int a)
         {
 
         }
