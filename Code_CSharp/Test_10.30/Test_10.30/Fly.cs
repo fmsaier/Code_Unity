@@ -10,6 +10,6 @@ namespace Test_10._30
     {
         void Attack();
 
-        void Move(int a);
+        void Move();
     }
 }

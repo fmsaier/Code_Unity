@@ -8,7 +8,14 @@ namespace Test_10._30
 {
     abstract class Enemy : Fly
     {
-        public abstract void Move(int a);
+        protected int a;
+
+        public void Test()
+        {
+
+        }
+
+        public abstract void Move();
 
         public void Attack()
         {

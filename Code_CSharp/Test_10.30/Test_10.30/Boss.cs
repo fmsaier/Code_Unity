@@ -8,9 +8,11 @@ namespace Test_10._30
 {
     internal sealed class Boss:Enemy
     {
-        public sealed override void Move(int a)
+        private int a;
+        public sealed override void Move()
         {
-
+            base.a = this.a;
+            Test();
         }
 
         public new void Attack()
