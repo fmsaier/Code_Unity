@@ -12,3 +12,10 @@ D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\refint\T
 D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\Test_10.30.pdb
 D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\Test_10.30.genruntimeconfig.cache
 D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\ref\Test_10.30.dll
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\bin\Debug\net6.0\Test.deps.json
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\bin\Debug\net6.0\Test.runtimeconfig.json
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\bin\Debug\net6.0\Test.exe
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\bin\Debug\net6.0\Test.dll
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\bin\Debug\net6.0\Test.pdb
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\Test_10.30.csproj.AssemblyReference.cache
+D:\GitHub\Code_Unity\Code_CSharp\Test_10.30\Test_10.30\obj\Debug\net6.0\Test_10.30.csproj.CopyComplete
